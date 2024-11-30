@@ -1,0 +1,8 @@
+setup.py
+sysmonitor_interfaces/__init__.py
+sysmonitor_interfaces.egg-info/PKG-INFO
+sysmonitor_interfaces.egg-info/SOURCES.txt
+sysmonitor_interfaces.egg-info/dependency_links.txt
+sysmonitor_interfaces.egg-info/top_level.txt
+sysmonitor_interfaces/msg/__init__.py
+sysmonitor_interfaces/msg/_sysmon.py

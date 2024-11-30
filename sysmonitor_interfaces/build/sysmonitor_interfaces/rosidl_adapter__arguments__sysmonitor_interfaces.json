@@ -1,0 +1,6 @@
+{
+  "package_name": "sysmonitor_interfaces",
+  "non_idl_tuples": [
+    "/home/alex/Desktop/ex1/sysmonitor_interfaces:msg/Sysmon.msg"
+  ]
+}

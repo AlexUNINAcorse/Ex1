@@ -1,0 +1,19 @@
+[35m[1mConsolidate compiler generated dependencies of target talker[0m
+[100%] Built target talker
+-- Install configuration: ""
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/lib/myTalker/talker
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/ament_index/resource_index/package_run_dependencies/myTalker
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/ament_index/resource_index/parent_prefix_path/myTalker
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/environment/ament_prefix_path.sh
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/environment/path.sh
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/environment/path.dsv
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/local_setup.bash
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/local_setup.sh
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/local_setup.zsh
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/local_setup.dsv
+-- Installing: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/package.dsv
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/ament_index/resource_index/packages/myTalker
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/cmake/myTalkerConfig.cmake
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/cmake/myTalkerConfig-version.cmake
+-- Up-to-date: /home/alex/Desktop/ex1/install/myTalker/share/myTalker/package.xml

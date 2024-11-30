@@ -1,0 +1,10 @@
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/uninstall.dir
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/myTalker_uninstall.dir
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/talker.dir
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/test.dir
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/edit_cache.dir
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/rebuild_cache.dir
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/list_install_components.dir
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/install.dir
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/install/local.dir
+/home/alex/Desktop/ex1/build/myTalker/CMakeFiles/install/strip.dir

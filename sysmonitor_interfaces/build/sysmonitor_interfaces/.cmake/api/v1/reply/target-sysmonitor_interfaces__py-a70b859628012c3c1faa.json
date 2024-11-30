@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/alex/Desktop/ex1/build/sysmonitor_interfaces/sysmonitor_interfaces__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "sysmonitor_interfaces::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "sysmonitor_interfaces__py::@aec8500a670ef2cc6564",
+	"name" : "sysmonitor_interfaces__py",
+	"paths" : 
+	{
+		"build" : "sysmonitor_interfaces__py",
+		"source" : "/home/alex/Desktop/ex1/build/sysmonitor_interfaces/sysmonitor_interfaces__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/alex/Desktop/ex1/build/sysmonitor_interfaces/sysmonitor_interfaces__py/CMakeFiles/sysmonitor_interfaces__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/alex/Desktop/ex1/build/sysmonitor_interfaces/sysmonitor_interfaces__py/CMakeFiles/sysmonitor_interfaces__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/alex/Desktop/ex1/build/sysmonitor_interfaces/rosidl_generator_py/sysmonitor_interfaces/_sysmonitor_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

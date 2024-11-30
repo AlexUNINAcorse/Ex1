@@ -1,0 +1,16 @@
+/home/alex/Desktop/ex1/install/myTalker/lib/myTalker/talker
+/home/alex/Desktop/ex1/install/myTalker/share/ament_index/resource_index/package_run_dependencies/myTalker
+/home/alex/Desktop/ex1/install/myTalker/share/ament_index/resource_index/parent_prefix_path/myTalker
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/environment/ament_prefix_path.sh
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/environment/ament_prefix_path.dsv
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/environment/path.sh
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/environment/path.dsv
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/local_setup.bash
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/local_setup.sh
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/local_setup.zsh
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/local_setup.dsv
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/package.dsv
+/home/alex/Desktop/ex1/install/myTalker/share/ament_index/resource_index/packages/myTalker
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/cmake/myTalkerConfig.cmake
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/cmake/myTalkerConfig-version.cmake
+/home/alex/Desktop/ex1/install/myTalker/share/myTalker/package.xml

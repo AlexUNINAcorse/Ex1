@@ -1,0 +1,6 @@
+Invoking command in '/home/alex/Desktop/ex1/build/myTalker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/alex/Desktop/ex1/src/myTalker -DCMAKE_INSTALL_PREFIX=/home/alex/Desktop/ex1/install/myTalker
+Invoked command in '/home/alex/Desktop/ex1/build/myTalker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/alex/Desktop/ex1/src/myTalker -DCMAKE_INSTALL_PREFIX=/home/alex/Desktop/ex1/install/myTalker
+Invoking command in '/home/alex/Desktop/ex1/build/myTalker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alex/Desktop/ex1/build/myTalker -- -j16 -l16
+Invoked command in '/home/alex/Desktop/ex1/build/myTalker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alex/Desktop/ex1/build/myTalker -- -j16 -l16
+Invoking command in '/home/alex/Desktop/ex1/build/myTalker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/alex/Desktop/ex1/build/myTalker
+Invoked command in '/home/alex/Desktop/ex1/build/myTalker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/alex/Desktop/ex1/build/myTalker

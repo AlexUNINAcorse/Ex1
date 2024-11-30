@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-4380714f2ba19cf937b5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "sysmonitor_interfaces__py",
+					"jsonFile" : "directory-sysmonitor_interfaces__py-a8a7bc93fe51cc2b10d3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/alex/Desktop/ex1/build/sysmonitor_interfaces/sysmonitor_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "sysmonitor_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_sysmonitor_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_sysmonitor_interfaces_egg-0ae6001713f27792b09c.json",
+					"name" : "ament_cmake_python_build_sysmonitor_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_sysmonitor_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_sysmonitor_interfaces-0085785a4c9c47de6082.json",
+					"name" : "ament_cmake_python_copy_sysmonitor_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces-d1c449c29e0548f6ac37.json",
+					"name" : "sysmonitor_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__cpp-d527bc34acd7646c8358.json",
+					"name" : "sysmonitor_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sysmonitor_interfaces__py::@aec8500a670ef2cc6564",
+					"jsonFile" : "target-sysmonitor_interfaces__py-a70b859628012c3c1faa.json",
+					"name" : "sysmonitor_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_generator_c-59be8abb213d94427738.json",
+					"name" : "sysmonitor_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_generator_py-20e454884318735595e7.json",
+					"name" : "sysmonitor_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_typesupport_c-5826fb0140291872afff.json",
+					"name" : "sysmonitor_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_typesupport_c__pyext-f5812453efa72312acf7.json",
+					"name" : "sysmonitor_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_typesupport_cpp-4e91280aecd25c0e88ad.json",
+					"name" : "sysmonitor_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_typesupport_fastrtps_c-a7217962b4764134a3e8.json",
+					"name" : "sysmonitor_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_typesupport_fastrtps_c__pyext-693d9732657411447583.json",
+					"name" : "sysmonitor_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_typesupport_fastrtps_cpp-0dfffd0f3ec56b4f7970.json",
+					"name" : "sysmonitor_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_typesupport_introspection_c-8103f75c7befae26444c.json",
+					"name" : "sysmonitor_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_typesupport_introspection_c__pyext-a8a10851aa7a7b28c54d.json",
+					"name" : "sysmonitor_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces__rosidl_typesupport_introspection_cpp-a3d1d36bc6005a0723d1.json",
+					"name" : "sysmonitor_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sysmonitor_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sysmonitor_interfaces_uninstall-9443c7af37a08b0e939c.json",
+					"name" : "sysmonitor_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-eed7efb882ef2c3b91af.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alex/Desktop/ex1/build/sysmonitor_interfaces",
+		"source" : "/home/alex/Desktop/ex1/sysmonitor_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

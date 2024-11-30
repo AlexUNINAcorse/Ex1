@@ -1,0 +1,4 @@
+Invoking command in '/home/alex/Desktop/ex1/build/sysmonitor_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alex/Desktop/ex1/build/sysmonitor_interfaces -- -j16 -l16
+Invoked command in '/home/alex/Desktop/ex1/build/sysmonitor_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alex/Desktop/ex1/build/sysmonitor_interfaces -- -j16 -l16
+Invoking command in '/home/alex/Desktop/ex1/build/sysmonitor_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/alex/Desktop/ex1/build/sysmonitor_interfaces
+Invoked command in '/home/alex/Desktop/ex1/build/sysmonitor_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/alex/Desktop/ex1/build/sysmonitor_interfaces

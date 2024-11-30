@@ -1,0 +1,2 @@
+Invoking command in '/home/alex/Desktop/ex1/build/myTalker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alex/Desktop/ex1/build/myTalker -- -j16 -l16
+Invoked command in '/home/alex/Desktop/ex1/build/myTalker' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alex/Desktop/ex1/build/myTalker -- -j16 -l16
