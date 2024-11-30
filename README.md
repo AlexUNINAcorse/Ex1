@@ -288,3 +288,10 @@ to stop it press Ctrl+C.
 
 
 Now all that's left to do is upload our project to Github.
+
+
+
+
+And here's the last step:
+(Download Foxglove, open the bag with foxglove, create a plot of the system and one with the image, take a screenshot and put it in the GitHub readme file.)
+![image](https://github.com/user-attachments/assets/519e105c-325d-4004-9b8a-e89b8c09f6a7)
